@@ -1,5 +1,8 @@
 """
-Crea un programa que lea precio, unidades y porcentaje de descuento, calcule subtotal, descuento, IVA y total, y muestre cada importe con dos decimales. Añade una condición que indique si el pedido supera un umbral de envío gratuito.
+Crea un programa que lea precio, unidades y porcentaje de descuento, 
+calcule subtotal, descuento, IVA y total, y muestre cada importe 
+con dos decimales. Añade una condición que indique si el pedido 
+supera un umbral de envío gratuito.
 """
 
 # Función para calcular el subtotal
