@@ -33,3 +33,4 @@ match sesion_tres_d:
 
 # Desglose de los detalles
 print(f"Usted tiene: {edad} años\nEl día de su sesión es el: {dia_semana}\nSu sesión es: {tipo_sesion}\nEl precio es: {calcular_precio_edad}")
+
