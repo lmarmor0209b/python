@@ -94,7 +94,7 @@ while opcion != 4:
             print(f"Huevos\t\t{total_huevos}\t\t{round(total_calculado_huevos, 2)}")
             print("------------------------------------------------------")
 
-                        # Total de todo los productos
+            # Total de todo los productos
             total = total_calculado_pan + total_calculado_leche + total_calculado_huevos
             
             print(f"Total calculado: {round(total, 2)}")
